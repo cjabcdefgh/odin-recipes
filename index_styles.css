@@ -1,0 +1,34 @@
+/* index_styles.css */
+
+html{
+    min-height: 100vh;
+    background: #008080
+}
+div{
+    height: 700px;
+    width: 1750px;
+    background: #f4ffb9;
+    border-radius: 0px;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+.box{
+    box-shadow: 20px 20px 5px 10px rgba(0, 0, 0, 0.5);
+}
+h1{
+    position: absolute;
+    font-family: 'Anton', serif;
+    font-size: 100px;
+    font-weight: lighter;
+    color:#008080;
+    left: 150px;
+    top: 325px;
+    line-height: 1.1;
+}
+
+#circle{
+    height: 50px;
+    width: 50px;
+    background-color: #008080;
+    border-radius: 50%;
+}
